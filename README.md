@@ -1,2 +1,2 @@
 # SpringBootTesting
-I am just testing out how to use sprintboot here
+I am just testing out how to use springboot here
